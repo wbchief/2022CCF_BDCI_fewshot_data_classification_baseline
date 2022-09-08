@@ -1,0 +1,1 @@
+python inference.py --ckpt_file '/root/autodl-tmp/ccf_bdci/models/2022-09-05/base_v1/model_epoch_9_macro_f1_0.4198_9.bin' --submission_csv /root/autodl-tmp/ccf_bdci/results/model_epoch_9_macro_f1_0.4198_9.csv
